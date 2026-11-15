@@ -43,7 +43,7 @@ export default function Footer() {
       <div className="mx-auto max-w-7xl px-6 pb-10"><OfficeMap /></div>
       <div className="border-t border-white/10">
         <div className="mx-auto flex max-w-7xl flex-col items-center justify-between gap-2 px-6 py-6 text-xs text-white/40 sm:flex-row">
-          <span>© {new Date().getFullYear()} Mountain Planet Nepal. All rights reserved.</span>
+          <span>Powered by BoticxLabs IIP</span>
           <span className="font-script text-lg text-gold/80">Heaven is a myth, Himalayas are real</span>
         </div>
       </div>
